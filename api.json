@@ -63,6 +63,14 @@
       "indexs": 0,
       "ext": "https://api.失眠的夜.icu/json/Smdy.php?file=Ailive"
     },
+        {
+      "key": "饭太硬直播",
+      "name": "安饭太硬直播",
+      "type": 3,
+      "jar": "./fty.jar",
+      "searchable": 0,
+      "changeable": 0
+    },
     {
       "key": "电视直播",
       "name": "电视直播❛‿˂̵✧",
