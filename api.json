@@ -311,84 +311,6 @@
       "changeable": 1,
       "jar": "./lib/Wex.jar"
     },
- {
-      "key": "UCsousou",
-      "name": "🌈优汐搜搜┃4K纯净",
-      "type": 3,
-      "api": "csp_UuSs",
-      "jar": "./fty.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
- "commonConfig": "./lib/peizhi.json"
-      }
-    },
-    {
-      "key": "米搜",
-      "name": "🦋米盘搜搜┃4K纯净",
-      "type": 3,
-      "api": "csp_MIPanSo",
-      "jar": "./fty.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
- "commonConfig": "./lib/peizhi.json"
-      }
-    },
-    {
-      "key": "抠搜",
-      "name": "🍄抠抠搜搜┃4K纯净",
-      "type": 3,
-      "api": "csp_KkSs",
-      "jar": "./fty.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
- "commonConfig": "./lib/peizhi.json"
-      }
-    },
-    {
-      "key": "PanSso",
-      "name": "🐌盘他盘他┃三盘搜索",
-      "type": 3,
-      "api": "csp_PanSso",
-      "jar": "./fty.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
- "commonConfig": "./lib/peizhi.json"
-      }
-    },
-    {
-      "key": "YpanSo",
-      "name": "🐟盘她盘她┃三盘搜索",
-      "type": 3,
-      "api": "csp_YpanSo",
-      "jar": "./fty.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
- "commonConfig": "./lib/peizhi.json"
-      }
-    },
-    {
-      "key": "xzso",
-      "name": "👻盘它盘它┃三盘搜索",
-      "type": 3,
-      "api": "csp_xzso",
-      "jar": "./fty.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
- "commonConfig": "./lib/peizhi.json"
-      }
-    },
     {
       "key": "Lib",
       "name": "🌟立播┃秒播",
@@ -720,6 +642,15 @@
     }
   ],
   "lives": [
+      {
+      "name": "饭太硬",
+      "type": 0,
+      "jar": "./fty.jar",
+      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png"
+    },
     {
       "name": "智能直播",
       "type": 3,
