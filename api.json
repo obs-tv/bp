@@ -63,18 +63,16 @@
       "indexs": 0,
       "ext": "https://api.失眠的夜.icu/json/Smdy.php?file=Ailive"
     },
-        {
-      "key": "饭太硬直播",
-      "name": "饭太硬直播",
+      {
+      "key": "豆瓣饭太硬",
+      "name": "豆瓣饭太硬",
       "type": 3,
+      "api": "csp_DouDou",
+      "indexs": 1,
       "searchable": 0,
-      "changeable": 0,
-       "style": {
-        "type": "rect",
-        "ratio": 1.597
+      "quickSearch": 0,
+      "filterable": 0
       },
-     "jar": "./fty.jar"
-    },
     {
       "key": "电视直播",
       "name": "电视直播❛‿˂̵✧",
