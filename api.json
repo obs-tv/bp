@@ -311,36 +311,12 @@
       "changeable": 1,
       "jar": "./lib/Wex.jar"
     },
-    {
-      "key": "星剧社",
-      "name": "星剧4K",
-      "type": 3,
-      "api": "csp_Star2",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "commonConfig": "./lib/peizhi.json"
-      }
-    },
-    {
-      "key": "云盘资源网",
-      "name": "云盘4K",
-      "type": 3,
-      "api": "./lib/drpy2.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/云盘资源网.js"
-    },
  {
       "key": "UCsousou",
       "name": "🌈优汐搜搜┃4K纯净",
       "type": 3,
       "api": "csp_UuSs",
+      "jar": "./fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -354,6 +330,7 @@
       "name": "🦋米盘搜搜┃4K纯净",
       "type": 3,
       "api": "csp_MIPanSo",
+      "jar": "./fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -367,6 +344,7 @@
       "name": "🍄抠抠搜搜┃4K纯净",
       "type": 3,
       "api": "csp_KkSs",
+      "jar": "./fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -380,6 +358,7 @@
       "name": "🐌盘他盘他┃三盘搜索",
       "type": 3,
       "api": "csp_PanSso",
+      "jar": "./fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -393,6 +372,7 @@
       "name": "🐟盘她盘她┃三盘搜索",
       "type": 3,
       "api": "csp_YpanSo",
+      "jar": "./fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -406,6 +386,7 @@
       "name": "👻盘它盘它┃三盘搜索",
       "type": 3,
       "api": "csp_xzso",
+      "jar": "./fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -474,15 +455,6 @@
       }
     },
     {
-      "key": "视觉",
-      "name": "视觉1080",
-      "type": 3,
-      "api": "csp_Drama",
-      "jar": "./lib/Pizazz.jar",
-      "playerType": 2,
-      "ext": "saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUa3wyMQ=="
-    },
-    {
       "key": "人人",
       "name": "人人1080",
       "type": 3,
@@ -510,15 +482,6 @@
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
     {
-      "key": "星河",
-      "name": "星河1080",
-      "type": 3,
-      "api": "csp_Muou",
-      "jar": "./lib/Pizazz.jar",
-      "playerType": 2,
-      "ext": "caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzfOW5leWQr+aYn+ays3w0LjEuOA=="
-    },
-    {
       "key": "客星",
       "name": "客星1080",
       "type": 3,
@@ -535,30 +498,6 @@
       "jar": "./lib/Pizazz.jar",
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
-    },
-    {
-      "key": "洽洽影视",
-      "name": "瓜子1080",
-      "type": 3,
-      "api": "csp_AppGZ",
-      "jar": "./lib/Pizazz.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
-    },
-    {
-      "key": "厂长弹幕",
-      "name": "厂长1080",
-      "type": 3,
-      "api": "csp_Czzy",
-      "jar": "./lib/Pizazz.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
     },
     {
       "key": "天天弹幕",
@@ -614,15 +553,6 @@
       "ext": {
         "danmu": true
       }
-    },
-    {
-      "key": "荐片",
-      "name": "荐片1080",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/jianpian.json"
     },
     {
       "key": "玉米",
