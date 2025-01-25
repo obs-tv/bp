@@ -321,8 +321,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "TVBox/Cloud-drive.txt",
-        "from": "4k|auto"
+ "commonConfig": "./lib/peizhi.json"
       }
     },
     {
@@ -335,8 +334,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "TVBox/Cloud-drive.txt",
-        "from": "4k|auto"
+ "commonConfig": "./lib/peizhi.json"
       }
     },
     {
@@ -349,8 +347,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "TVBox/Cloud-drive.txt",
-        "from": "4k|auto"
+ "commonConfig": "./lib/peizhi.json"
       }
     },
     {
@@ -363,8 +360,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "TVBox/Cloud-drive.txt",
-        "from": "4k|auto"
+ "commonConfig": "./lib/peizhi.json"
       }
     },
     {
@@ -377,8 +373,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "TVBox/Cloud-drive.txt",
-        "from": "4k|auto"
+ "commonConfig": "./lib/peizhi.json"
       }
     },
     {
@@ -391,8 +386,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "TVBox/Cloud-drive.txt",
-        "from": "4k|auto"
+ "commonConfig": "./lib/peizhi.json"
       }
     },
     {
@@ -404,8 +398,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
+ "commonConfig": "./lib/peizhi.json"
       }
     },
     {
