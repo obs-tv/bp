@@ -145,19 +145,6 @@
       }
     },
     {
-      "key": "小米网盘",
-      "name": "小米4K",
-      "type": 3,
-      "api": "csp_kongbai",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./lib/peizhi.json",
-        "siteUrl": "http://ucmi.fun",
-        "filter": "./lib/wogg.json"
-      }
-    },
-    {
       "key": "闪电网盘",
       "name": "闪电4K",
       "type": 3,
@@ -275,19 +262,6 @@
       }
     },
     {
-      "key": "云星弹幕",
-      "name": "云星资源┃4K弹幕",
-      "type": 3,
-      "api": "csp_kongbai",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./lib/peizhi.json",
-        "siteUrl": "https://4k.4u4.cn",
-        "filter": "./lib/wogg.json"
-      }
-    },
-    {
       "key": "夸克团长弹幕",
       "name": "夸克团长┃4K弹幕",
       "type": 3,
@@ -296,7 +270,6 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./lib/peizhi.json",
-        "siteUrl": "http://txfyyds.top",
         "filter": "./lib/wogg.json"
       }
     },
