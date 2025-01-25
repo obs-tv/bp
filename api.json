@@ -127,12 +127,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./lib/peizhi.json",
-       "site_urls": [
-          "https://wogg.xxooo.cf/",
-          "https://www.wogg.bf/",
-          "https://www.wogg.net/",
-          "https://woggpan.333232.xyz/"
-        ],
+        "siteUrl": "https://woggpan.333232.xyz/",
         "filter": "./lib/wogg.json"
       }
     },
@@ -197,10 +192,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./lib/peizhi.json",
-      "site_urls": [
-          "http://www.xhww.net/",
-          "https://mihdr.top/"
-        ],
+        "siteUrl": "http://www.xhww.net/",
         "filter": "./lib/wogg.json"
       }
     },
@@ -213,11 +205,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./lib/peizhi.json",
-        "site_urls": [
-          "https://tv.yydsys.top",
-          "https://tv.yydsys.cc",
-          "https://tv.214521.xyz"
-        ],
+        "siteUrl": "https://tv.yydsys.top",
         "filter": "./lib/wogg.json"
       }
     },
