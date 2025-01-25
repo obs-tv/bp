@@ -64,10 +64,11 @@
       "ext": "https://api.失眠的夜.icu/json/Smdy.php?file=Ailive"
     },
       {
-      "key": "豆瓣饭太硬",
-      "name": "豆瓣饭太硬",
+      "key": "饭太硬直播加载",
+      "name": "饭太硬直播加载",
       "type": 3,
       "api": "csp_DouDou",
+      "jar": "./fty.jar", 
       "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
