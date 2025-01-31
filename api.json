@@ -53,17 +53,6 @@
       "jar": "./lib/Wex.jar"
     },
     {
-      "key": "肥羊电视",
-      "name": "安装肥羊❛‿˂̵✧",
-      "type": 3,
-      "api": "csp_Market",
-      "jar": "./lib/Pizazz.jar",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "ext": "https://api.失眠的夜.icu/json/Smdy.php?file=Ailive"
-    },
-    {
       "key": "电视直播",
       "name": "电视直播❛‿˂̵✧",
       "type": 3,
@@ -642,52 +631,7 @@
     }
   ],
   "lives": [
-    {
-      "name": "智能直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "jar": "./lib/Pizazz.jar",
-      "url": "tv.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "B站直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "jar": "./lib/Pizazz.jar",
-      "url": "bililive.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "虎牙直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "jar": "./lib/Pizazz.jar",
-      "url": "huyayqk.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "斗鱼直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "jar": "./lib/Pizazz.jar",
-      "url": "douyuyqk.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "YY轮播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "jar": "./lib/Pizazz.jar",
-      "url": "yylunbo.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
-    {
+  {
       "name": "🌞明明电视",
       "type": 0,
       "url": "./lib/ipv6.m3u",
@@ -697,14 +641,7 @@
    {
       "name": "自定义",
       "type": 0,
-      "url": "http://ghproxy.cn/https://raw.githubusercontent.com/obs-tv/tv/main/live.txt",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "🔫aktv电视",
-      "type": 0,
-      "url": "http://aktv.top/live.m3u",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/obs-tv/tv/main/live.txt",
       "playerType": 2,
       "timeout": 10
     }
